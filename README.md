@@ -50,9 +50,4 @@ This project is a Todo application that allows users to create, read, update, an
 
 ## 🌐 Demo
 
-[Live Demo](https://your-demo-link.com)
-
-
-
-
-
+[Live Demo](https://to-do-list-react-742k.netlify.app/)
